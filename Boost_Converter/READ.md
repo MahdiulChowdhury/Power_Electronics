@@ -2,4 +2,4 @@
 
 
 
-<img src="./Images/setup.jpeg" width="50%" />
+<img src="./Images/setup.jpg" width="50%" />
