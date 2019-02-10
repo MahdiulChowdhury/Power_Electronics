@@ -1,5 +1,5 @@
 <br>
-<img height="600" src="https://github.com/MahdiulChowdhury/Power_Electronics/blob/master/images/IMG_4889.jpg" />
+<img height="400" src="https://github.com/MahdiulChowdhury/Power_Electronics/blob/master/images/IMG_4889.jpg" />
 <br>
 The figure is the boost-coverter circuit.<br> 
 Components: <br> 
